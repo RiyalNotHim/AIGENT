@@ -1,4 +1,4 @@
-# 🤖 AIGENT – Desktop Virtual Assistant
+# 🤖 AIGENT – Desktop Virtual Assistant “AIGENT – The AI that works for you.”
 
 **AIGENT (Artificial Intelligence Guidance and Enhanced Network Technology)** is a smart virtual assistant inspired by JARVIS from Iron Man. It integrates **facial recognition**, **NLP**, **task automation**, and more to deliver an intelligent and interactive desktop experience.
 
