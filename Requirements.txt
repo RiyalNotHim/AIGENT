@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pillow
+speechrecognition
+pyttsx3
+requests
+flask
+torch
+transformers
+mediapipe
