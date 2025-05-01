@@ -96,10 +96,10 @@ pip install -r requirements.txt
 **Sattyam Chavan**   
 🔗 [LinkedIn](https://www.linkedin.com/in/sattyam-chavan) | 💻 [GitHub](https://github.com/RiyalNotHim)| 💻[Email Me](mailto:csattyam@gmail.com)
 
-**Prathmesh Boge**
+**Prathmesh Boge**   
 🔗 [LinkedIn](https://www.linkedin.com/in/prathmesh-boge-380787257/) | 💻 [GitHub](https://github.com/BogePrathemesh) |  💻[Email Me](mailto:bogeprathmesh@gmail.com)
 
-**Athashree Badokar**
+**Athashree Badokar**   
 🔗 [LinkedIn](https://www.linkedin.com/in/athashree-badokar-076917257/) | 💻 [GitHub](https://github.com/athashree08)| 💻[Email Me](mailto:athashreebadokar08@gmail.com)
 
 ---
