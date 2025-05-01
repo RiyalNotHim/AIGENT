@@ -93,8 +93,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Sattyam Chavan**  
-📍 Pune, India  
+**Sattyam Chavan**   
 🔗 [LinkedIn](https://www.linkedin.com/in/sattyam-chavan) | 💻 [GitHub](https://github.com/RiyalNotHim)| 💻[Email Me](mailto:csattyam@gmail.com)
 
 **Prathmesh Boge**
