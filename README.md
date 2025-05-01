@@ -61,4 +61,4 @@ Dependencies are listed in requirements.txt.
 ##👨‍💻 Author
 Sattyam Chavan
 📍 Pune, India
-🌐 LinkedIn | GitHub
+🌐 LinkedIn : https://www.linkedin.com/in/sattyam-chavan
